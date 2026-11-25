@@ -155,10 +155,10 @@ FAQ_DETAIL_DRINKS = [
 
 # ------------------------------------------------------------------ fragments
 def faq_block(items):
-    out = ['<section class="faq"><h2>Questions people ask</h2>']
+    out = ['<section class="faq"><div class="inner"><h2>Questions people ask</h2>']
     for q, a in items:
         out.append('<details><summary>' + esc(q) + '</summary><p>' + esc(a) + '</p></details>')
-    out.append('</section>')
+    out.append('</div></section>')
     return "\n".join(out)
 
 def mapbox(id_="map"):
