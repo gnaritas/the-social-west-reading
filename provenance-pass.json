@@ -1,0 +1,10 @@
+{
+ "slug": "the-social-west-reading",
+ "email": "taqueriacomalli@gmail.com",
+ "email_norm": "taqueriacomalligmailcom",
+ "source_url": "https://www.facebook.com/TaqueriaComalli?sk=about",
+ "page_title": "Taqueria Comālli | Facebook",
+ "method": "browser_exec logged-out FB About-tab render (scan provenance recipe); contact-info block: 'Email taqueriacomalli@gmail.com' + '(484) 869-2824 Mobile' + address '619 Penn Ave, West Reading, PA 19611' + website order.comallitacos.com",
+ "corroboration": "FB-published Comalli address on Penn Ave 19611 backs the card NAP ruling (Penn Ave/19611 corridor, vs press loose Penn Street/19610); phone is Comalli's own, not published on The Social",
+ "ts": "2026-11-25T06:05:00-08:00"
+}
