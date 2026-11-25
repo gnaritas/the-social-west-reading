@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /open
+
+Sitemap: https://the-social-west-reading-demo.up.railway.app/sitemap.xml

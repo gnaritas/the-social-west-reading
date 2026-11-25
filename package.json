@@ -1,0 +1,9 @@
+{
+  "name": "the-social-west-reading",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Social (643 Penn Ave, West Reading, PA 19611) — new drinks-only bar pre-opening site (websites lane)",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
